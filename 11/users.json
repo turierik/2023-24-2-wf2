@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$10$ihPkcOagI1AVHksmZNsr4.lMWVbmlQDY9e/I/ecSSNemKgWPKgh6u"
+    },
+    {
+        "id": 2,
+        "username": "pista",
+        "password": "$2y$10$ihPkcOagI1AVHksmZNsr4.lMWVbmlQDY9e/I/ecSSNemKgWPKgh6u"
+    }
+]
